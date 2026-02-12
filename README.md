@@ -207,7 +207,7 @@ FROM node:18 AS build
 ### Clone repository
 
 ```
-git clone <your-repo-url>
+git clone <https://github.com/hridyen/reliefco-container-orchestration.git>
 cd dockerprojects
 ```
 
